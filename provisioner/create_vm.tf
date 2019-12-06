@@ -1,6 +1,6 @@
 # Configure the Microsoft Azure Provider
 
-provideer "azurerm" {
+provider "azurerm" {
 subscription_id= "b9e44674-9ff1-4d05-9e98-23af627f19f5"
 client_id= "b5b781cd-e4e7-43f5-b0e2-c7ae7d8310e0"
 client_secret= "6UxWi1:[5h0mVJXYp:Bo.n_xAryh/vG4"
